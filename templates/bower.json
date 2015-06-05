@@ -1,0 +1,11 @@
+{
+    "name": "<%= appNameSlug %>",
+    "version": "<%= appVersion %>",
+    "description": "<%= appDescription %>",
+    "main": "app/index.html",
+    "authors": [ "<%= appAuthor %>" ],
+    "license": "MIT",
+    "dependencies": {
+        "angular": "~1.3.15"
+    }
+}

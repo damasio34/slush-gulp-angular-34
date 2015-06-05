@@ -1,0 +1,10 @@
+{
+  "name": "<%= appNameSlug %>",
+  "version": "<%= appVersion %>",
+  "description": "<%= appDescription %>",
+  "main": "app/index.html",
+  "author": {
+    "name": "<%= appAuthor %>",
+    "url": "<%= appEmail %>"
+  }
+}
